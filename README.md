@@ -12,7 +12,7 @@
 ✅ Ensure mobile responsiveness
 
 ##💻 Phase 3: Backend & Database
-✅ Choose a backend: Node.js (Express), Python (Django), or Firebase
+✅ Choose a backend: Node.js (Express), Python (Django)
 ✅ Set up a database (MongoDB, MySQL, or Firebase)
 ✅ Implement user authentication (Sign-up, Login)
 ✅ Add product management (CRUD for food items)
